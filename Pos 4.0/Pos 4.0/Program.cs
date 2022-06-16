@@ -13,5 +13,7 @@ namespace Pos_4._0
             ApplicationConfiguration.Initialize();
             Application.Run(new Form1());
         } 
+
+        //¤·¤·
     }
 }
