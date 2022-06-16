@@ -14,6 +14,6 @@ namespace Pos_4._0
             Application.Run(new Form1());
         } 
 
-        //しし
+        //しし1
     }
 }
