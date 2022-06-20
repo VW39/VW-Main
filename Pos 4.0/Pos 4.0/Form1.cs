@@ -4,7 +4,7 @@ namespace Pos_4._0
     {
         public Form1()
         {
-            InitializeComponent();//test22222222
+            InitializeComponent();//test8888
         }
     }
 }
