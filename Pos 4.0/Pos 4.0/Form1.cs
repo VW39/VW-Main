@@ -4,7 +4,7 @@ namespace Pos_4._0
     {
         public Form1()
         {
-            InitializeComponent();//응애 나 코드 작성
+            InitializeComponent();//test4
         }
     }
 }
